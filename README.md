@@ -4,7 +4,7 @@
 
 This repository contains my submission for the backend engineering evaluation. It includes two main microservices built in Node.js.
 
-## 📸 Output Results
+##  Output Results
 
 > [!NOTE]
 > All output screenshots are saved directly within their respective module folders (`vehicle_scheduling` and `campus_notifications`).
